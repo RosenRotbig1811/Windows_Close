@@ -1,0 +1,12 @@
+c:\users\василий\documents\visual studio 2012\Projects\Windows_Close\Windows_Close\bin\Debug\Windows_Close.exe.config
+c:\users\василий\documents\visual studio 2012\Projects\Windows_Close\Windows_Close\bin\Debug\Windows_Close.exe
+c:\users\василий\documents\visual studio 2012\Projects\Windows_Close\Windows_Close\bin\Debug\Windows_Close.pdb
+c:\users\василий\documents\visual studio 2012\Projects\Windows_Close\Windows_Close\obj\Debug\Windows_Close.csprojResolveAssemblyReference.cache
+c:\users\василий\documents\visual studio 2012\Projects\Windows_Close\Windows_Close\obj\Debug\Windows_Close.Form1.resources
+c:\users\василий\documents\visual studio 2012\Projects\Windows_Close\Windows_Close\obj\Debug\Windows_Close.Properties.Resources.resources
+c:\users\василий\documents\visual studio 2012\Projects\Windows_Close\Windows_Close\obj\Debug\Windows_Close.csproj.GenerateResource.Cache
+c:\users\василий\documents\visual studio 2012\Projects\Windows_Close\Windows_Close\obj\Debug\Windows_Close.exe
+c:\users\василий\documents\visual studio 2012\Projects\Windows_Close\Windows_Close\obj\Debug\Windows_Close.pdb
+D:\YandexDisk\Университет\Лучшие проекты\Windows_Close\Windows_Close\bin\Debug\Windows_Close.exe.config
+D:\YandexDisk\Университет\Лучшие проекты\Windows_Close\Windows_Close\obj\Debug\Windows_Close.exe
+D:\YandexDisk\Университет\Лучшие проекты\Windows_Close\Windows_Close\obj\Debug\Windows_Close.pdb
